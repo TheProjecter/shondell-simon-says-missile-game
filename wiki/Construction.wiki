@@ -7,7 +7,7 @@ First off, I got the basic Simon Says portion of this project from the instructa
     * For the specifics of this, please refer to the website above.
   # Wire up the RF transmitter circuit
     * The control signal is connected to digital pin 6
-  # Wire in LED for the air pump
+  # Wire in LED for the air pump (digital pin 7)
   # Wire up the RF receiver circuit on the missile.
 This concludes all the physical construction of the project.
 
