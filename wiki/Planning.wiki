@@ -2,7 +2,7 @@
 Design a game that takes "Simon Says" to the next level by adding a *MISSILE!*
 
 = Design =
-prints pic
+https://shondell-simon-says-missile-game.googlecode.com/files/New%20Doc%201.pdf
 
 = Components =
 picture
