@@ -1,0 +1,27 @@
+= Concept =
+Design a game that takes "Simon Says" to the next level by adding a *MISSILE!*
+
+= Design =
+prints pic
+
+= Components =
+picture
+  * Air pump
+  *Nerf balls
+  *Arduino Uno
+  *LEDs
+  *Speaker
+  *4 switches
+  *Platform
+  *RF circuitry
+  *Nerf missile
+  *Glue
+  *Tubing
+  *Missile launch tube
+      *Need to cannibalize a Nerf gun for various parts
+      Nerf picture
+         *Missile
+         *Missile launch tube
+         *Possibly tubing
+
+  *Oh, yeah. And tape. A fair amount of both masking and electrical tape.
