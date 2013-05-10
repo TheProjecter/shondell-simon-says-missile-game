@@ -2,13 +2,13 @@
 First off, I got the basic Simon Says portion of this project from the instructables.com "Arduino Simon Says" project found here:
   * [http://www.instructables.com/id/Arduino-Simon-Says/ Arduino Simon Says]
 
-1. Place the components (Arduino, breadboard, missile launch tube...) on the platform in the correct area.
-2. Using the instructions from the website, set up the buttons and LEDs accordingly, but in the manner necessary for the specific setup.
-  * For the specifics of this, please refer to the website above.
-3. Wire up the RF transmitter circuit
-  * The control signal is connected to digital pin 6
-4. Wire in LED for the air pump
-5. Wire up the RF receiver circuit on the missile.
+  # Place the components (Arduino, breadboard, missile launch tube...) on the platform in the correct area.
+  # Using the instructions from the website, set up the buttons and LEDs accordingly, but in the manner necessary for the specific setup.
+    * For the specifics of this, please refer to the website above.
+  # Wire up the RF transmitter circuit
+    * The control signal is connected to digital pin 6
+  # Wire in LED for the air pump
+  # Wire up the RF receiver circuit on the missile.
 This concludes all the physical construction of the project.
 
 Take the "Simon Says" code from the website above and save the extracted "Tone" file into the Arduino library.
