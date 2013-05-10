@@ -1,0 +1,24 @@
+= Boom goes the dynamite =
+First off, I got the basic Simon Says portion of this project from the instructables.com "Arduino Simon Says" project found here:
+  * [http://www.instructables.com/id/Arduino-Simon-Says/ Arduino Simon Says]
+
+1. Place the components (Arduino, breadboard, missile launch tube...) on the platform in the correct area.
+2. Using the instructions from the website, set up the buttons and LEDs accordingly, but in the manner necessary for the specific setup.
+  * For the specifics of this, please refer to the website above.
+3. Wire up the RF transmitter circuit
+  * The control signal is connected to digital pin 6
+4. Wire in LED for the air pump
+5. Wire up the RF receiver circuit on the missile.
+This concludes all the physical construction of the project.
+
+Take the "Simon Says" code from the website above and save the extracted "Tone" file into the Arduino library.
+  * There are a few additions that need to be made to the code to have it run the air pump and missile LEDs.
+    * First initiate a "done" component that stops the game at a specific amount of turns
+    * Then, designate pins 6 and 7 as outputs for the missile and air pump LEDs, respectively
+    * Lastly, place an "if" statement that ends the game when turn equals done
+      * This will play whatever tune you choose and make the LEDs flash as desired.
+      * Before exiting the "if" statement, make turn equal -1 to start the game over.
+
+Here are some pictures. Enjoy.
+https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-08%2021.18.15.jpg
+https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-09%2000.30.46.jpg
