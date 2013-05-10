@@ -2,12 +2,13 @@
 Design a game that takes "Simon Says" to the next level by adding a *MISSILE!*
 
 = Design =
+These blueprints are kind of hard to see, but they were tentative anyway and the project didn't turn out exactly the way they planned. 
 https://shondell-simon-says-missile-game.googlecode.com/files/Blueprints%201.png
 
 https://shondell-simon-says-missile-game.googlecode.com/files/Blueprints%202.png
 
 = Components =
-picture
+https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-08%2018.32.19.jpg
   * Air pump
   * Nerf balls
   * Arduino Uno
