@@ -1,0 +1,14 @@
+You should be close to a final product by now (except for the inevitable troubleshooting phase)
+
+Couple of things:
+  * The big buttons are Nerf balls cut in half. You may have to cut a notch into them so the switches fit without accidentally clocking them.
+  * Make sure the connection from the air pump to the missile launch tube is airtight.
+  * In the time I gave myself for this project, I couldn't get the RF receiver circuit to run off of a battery. It needs a 5V source, which was originally fueled by 4 AA batteries. But, this weighs down the missile too much. I'm sure you can figure it out, though.
+
+Pictures:
+![https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-09%2020.35.13.jpg](https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-09%2020.35.13.jpg)
+![https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-09%2015.26.51.jpg](https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-09%2015.26.51.jpg)
+![https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-09%2015.24.42.jpg](https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-09%2015.24.42.jpg)
+
+Video:
+https://shondell-simon-says-missile-game.googlecode.com/files/2013-05-09%2021.18.06.mp4

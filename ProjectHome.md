@@ -1,0 +1,1 @@
+Simon Says game with large buttons for hitting with a punch or toy hammer. Noises and LEDs. After a certain sequence length, the game will signal to launch the missile with the lighting of an LED.
